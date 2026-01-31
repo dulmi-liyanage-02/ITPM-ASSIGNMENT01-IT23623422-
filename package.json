@@ -1,0 +1,18 @@
+{
+  "name": "playwright",
+  "version": "1.0.0",
+  "description": "Playwright Automation – Assignment 1 Student Information Student ID: IT23682078 Assignment: Assignment 1 – Test Automation Option Selected: Option 1 (Playwright)",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.58.0",
+    "@types/node": "^25.1.0"
+  },
+  "directories": {
+    "test": "tests"
+  }
+}
