@@ -77,20 +77,4 @@ Project Structure
 text
 
 
-ITPM-ASSIGNMENT01-IT23623422-/
-├── tests/
-│   ├── functional/
-│   │   ├── positive/          # Positive functional tests (24 test cases)
-│   │   └── negative/          # Negative functional tests (10 test cases)
-│   ├── ui/                    # UI test (1 test case)
-│   └── fixtures/              # Test fixtures and setup
-├── test-data/
-│   ├── test-cases.xlsx        # Complete test case documentation
-│   └── test-inputs.json       # Test input data
-├── reports/
-│   ├── html/                  # HTML test reports
-│   └── junit/                 # JUnit XML reports
-├── playwright.config.js       # Playwright configuration
-├── package.json              # Project dependencies
-├── README.md                 # This file
-└── .gitignore                # Git ignore file
+
