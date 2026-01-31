@@ -75,6 +75,8 @@ npx playwright install chromium  # Install only Chromium
 npx playwright install --with-deps  # Install browsers with dependencies
 Project Structure
 text
+
+
 ITPM-ASSIGNMENT01-IT23623422-/
 ├── tests/
 │   ├── functional/
