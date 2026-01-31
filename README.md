@@ -74,7 +74,7 @@ bash
 npx playwright install chromium  # Install only Chromium
 npx playwright install --with-deps  # Install browsers with dependencies
 Project Structure
-text
+text   
 
 
 
